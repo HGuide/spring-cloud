@@ -17,3 +17,5 @@ management:
   endpoints:
     web:
       expose: "*"
+test:
+  kobe
